@@ -90,7 +90,24 @@ sudo snap install --edge node --classic
 ```
 ***
 
-
+### Git
+***
+* Software Store
+* [Git Site](https://git-scm.com/download/linux)
+***
+### Comandos para instalação:
+***
+```
+sudo add-apt-repository ppa:git-core/ppa
+sudo apt update
+sudo apt install git
+```
+#### Configurações de usuário:
+```
+git config --global user.name 'thiagosantos346'
+git config --global user.email 'thiagosantos346gmail.com'
+```
+***
 
 ### App
 ***
