@@ -69,7 +69,7 @@ sudo snap install insomnia
 ### Node
 ***
 * Language
-* [App Site](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions-enterprise-linux-fedora-and-snap-packages)
+* [Node Site](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions-enterprise-linux-fedora-and-snap-packages)
 ***
 ### Comandos para instalação:
 ***
