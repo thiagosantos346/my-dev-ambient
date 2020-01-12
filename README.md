@@ -149,6 +149,34 @@ sudo dpkg -i mongodb-compass-community_1.20.4_amd64.deb
 ```
 
 ***
+### Docker
+
+* Adminstrater containers of services.
+* [Docker Site](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+
+### Comandos para instalação:
+
+```
+ sudo apt-get install docker-ce docker-ce-cli containerd.io 
+ 
+```
+
+***
+### Docker-compose
+
+* Software Store
+* [Docker-Compose Site](https://docs.docker.com/compose/install/)
+
+### Comandos para instalação:
+
+```
+sudo curl -L "https://github.com/docker/compose/releases/download/1.25.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+
+sudo chmod +x /usr/local/bin/docker-compose
+
+docker-compose -v
+```
+***
 ### App
 
 * Software Store
